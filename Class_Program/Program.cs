@@ -165,7 +165,6 @@ namespace Class_Program
             {
                 Console.WriteLine("you Can't drive while car is NOT on !");
             }
-            
         }
 
         public int GetSpeed()
@@ -179,8 +178,5 @@ namespace Class_Program
                 return -1;
             }
         }
-
-
-        
     }
 }
